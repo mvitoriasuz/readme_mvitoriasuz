@@ -37,7 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/mvitoriasuz)" title="Perfil Mavi">
+<a href="https://github.com/mvitoriasuz" title="Perfil Mavi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvitoriasuz&theme=dracula&show_icons=true" />
 </a>
 
